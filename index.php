@@ -57,7 +57,7 @@
 						</div>
 					</div>
 
-					<div class="form-group row    separar-salvar">
+					<div class="form-group row separar-salvar">
 						<div class="offset-4 col-5">
 														
 							<button type="reset" class="btn btn-outline-danger" onclick=resetForm()>Limpar</button>
